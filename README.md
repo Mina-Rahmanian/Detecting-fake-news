@@ -8,9 +8,8 @@ Language: Python <br />
 Dataset/Package: [news.csv](https://github.com/Mina-Rahmanian/Detecting-fake-news/blob/main/news.csv)
 
 ----------------------------------------------------------------------------------------------------
-<br />
 The main goal of this challenge is to detect fake and real news that is generally spread through social media and other online media.
-<br />
+<br /><br />
 
 <p align="center">
 <img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/195906991-db366e95-8769-4c6d-af5e-50ef819be7ec.PNG">
