@@ -11,7 +11,7 @@ Dataset/Package: [news.csv](https://github.com/Mina-Rahmanian/Detecting-fake-new
 <br />
 
 <p align="center">
-<img width="650" height="200" alt="d1" src="https://github.com/Mina-Rahmanian/Detecting-fake-news/issues/1#issue-1409644186">
+<img width="650" height="200" alt="d1" src="https://user-images.githubusercontent.com/71558720/195905602-9314a18a-e5fe-4fbf-84a2-2e5355628a74.PNG">
 </p>
 <p align="center">
 <em>Fig.1: Detecting Fake News</em>
