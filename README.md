@@ -8,7 +8,7 @@ Language: Python <br />
 Dataset/Package: [news.csv](https://github.com/Mina-Rahmanian/Detecting-fake-news/blob/main/news.csv)
 
 ----------------------------------------------------------------------------------------------------
-The main goal of this challenge is to To build a model to accurately classify a piece of news as REAL or FAKE spread through social media and other online media.
+The main goal of this challenge is to To build a model to accurately classify a piece of news as REAL or FAKE spread through online media.
 <br /><br />
 
 <p align="center">
