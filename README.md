@@ -1,5 +1,4 @@
 # Detecting-Fake-News
-----------------------------------------------------------------------------------------------------
 <br /><br />
 ## Introduction
 
@@ -9,7 +8,7 @@ Language: Python <br />
 Dataset/Package: [news.csv](https://github.com/Mina-Rahmanian/Detecting-fake-news/blob/main/news.csv)
 
 ----------------------------------------------------------------------------------------------------
-The main goal of this challenge is to detect fake and real news that is generally spread through social media and other online media.
+The main goal of this challenge is to To build a model to accurately classify a piece of news as REAL or FAKE spread through social media and other online media.
 <br /><br />
 
 <p align="center">
@@ -33,6 +32,7 @@ The TfidfVectorizer converts a collection of raw documents into a matrix of TF-I
 
 **Passive Aggressive algorithms** are online learning algorithms. Such an algorithm remains passive for a correct classification outcome, and turns aggressive in the event of a miscalculation, updating and adjusting. Unlike most other algorithms, it does not converge. Its purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
 
+----------------------------------------------------------------------------------------------------
 
 
 
