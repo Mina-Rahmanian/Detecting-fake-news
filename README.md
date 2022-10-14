@@ -6,3 +6,6 @@ Fake news is false information and hoaxes spread through social media and other 
 
 Language: Python <br />
 Dataset/Package: [news.csv](https://github.com/Mina-Rahmanian/Detecting-fake-news/blob/main/news.csv)
+----------------------------------------------------------------------------------------------------
+<br />
+
