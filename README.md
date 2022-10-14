@@ -40,9 +40,8 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 
 **Steps for detecting fake news with Python:** install the following libraries
 
-|                                | 
+|pip install numpy pandas sklearn                                 | 
 |:----------------------------------------------------------------|
-|pip install numpy pandas sklearn                                |
 |import numpy as np                                              |
 |import pandas as pd                                             |
 |import itertools                                                |
