@@ -38,7 +38,9 @@ The TfidfVectorizer converts a collection of raw documents into a matrix of TF-I
 This project of detecting fake news deals with fake and real news. Using **sklearn**, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well 
 
 
-**Steps for detecting fake news with Python:** install the following libraries
+**Steps for detecting fake news with Python:** 
+
+1) Install the following libraries with pip and make necessary imports
 
 |pip install numpy pandas sklearn                                 | 
 |:----------------------------------------------------------------|
@@ -50,7 +52,31 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 |from sklearn.linear_model import PassiveAggressiveClassifier    |
 |from sklearn.metrics import accuracy_score, confusion_matrix    |   
 
+2) let’s read the data into a DataFrame, and get the shape of the data and the first 10 records.
+3) Get the labels from the DataFrame.
+4) Split the dataset into training and testing sets.
+5) Fit and transform the vectorizer on the train set, and transform the vectorizer on the test set.
+6) Initialize a PassiveAggressiveClassifier. This is. We’ll fit this on tfidf_train and y_train.
+7) predict on the test set from the TfidfVectorizer and calculate the accuracy with accuracy_score() from sklearn.metrics.
+8) We got an accuracy of 92.82% with this model. 
+9) Finally, let’s print out a confusion matrix to gain insight into the number of false and true negatives and positives.
+10) Ok you have done :)
+
+ In this model, we have 589 true positives, 587 true negatives, 42 false positives, and 49 false negatives.
 
 
+## Conclusion
+
+
+Today, you have learned to detect fake news with Python. We took a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of 92.82% in magnitude.
+
+Hope you enjoyed the fake news detection python project. Keep visiting DataFlair for more interesting python, data science, and machine learning projects.
+
+<br /> <br /> 
+ 
+ 
+ 
+ 
+## ** Mina R **
 
 
