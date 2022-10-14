@@ -38,7 +38,19 @@ The TfidfVectorizer converts a collection of raw documents into a matrix of TF-I
 This project of detecting fake news deals with fake and real news. Using **sklearn**, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well 
 
 
-###Steps for detecting fake news with Python
+**Steps for detecting fake news with Python:**
+
+|install the following libraries with pip:                              | 
+| ---------------------------------------------------------------:|
+|pip install numpy pandas sklearn|
+|import numpy as np|
+|import pandas as pd|
+|import itertools|
+|from sklearn.model_selection import train_test_split|
+|from sklearn.feature_extraction.text import TfidfVectorizer|
+|from sklearn.linear_model import PassiveAggressiveClassifier|
+|from sklearn.metrics import accuracy_score, confusion_matrix |   
+
 
 
 
