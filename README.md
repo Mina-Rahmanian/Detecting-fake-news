@@ -92,8 +92,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 10) Ok you have done :)
 
 <p align="center">
-<img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/196265058-9f0b3a59-32d7-4a3f-8729-3df9b3b8cb54.png
-">
+<img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/196265058-9f0b3a59-32d7-4a3f-8729-3df9b3b8cb54.png">
 </p><br /> 
 
  In this model, we have 589 true positives, 587 true negatives, 42 false positives, and 49 false negatives.
