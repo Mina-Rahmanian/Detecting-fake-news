@@ -53,13 +53,13 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 |from sklearn.metrics import accuracy_score, confusion_matrix    |   
 
 2) let’s read the data into a DataFrame, and get the shape of the data and the first 10 records.
-
+<br />
 <p align="left">
 <img width="750" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262502-b9bcb683-e63f-4a31-9387-23bb518b68b0.PNG">
 </p><br /> 
 
 3) Get the labels from the DataFrame.
-
+<br />
 <p align="left">
 <img width="150" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
 </p><br /> 
