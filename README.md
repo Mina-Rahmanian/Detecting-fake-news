@@ -55,7 +55,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 2) let’s read the data into a DataFrame, and get the shape of the data and the first 10 records.
 
 <p align="left">
-<img width="750" height="200" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262502-b9bcb683-e63f-4a31-9387-23bb518b68b0.PNG">
+<img width="750" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262502-b9bcb683-e63f-4a31-9387-23bb518b68b0.PNG">
 </p><br /> 
 
 3) Get the labels from the DataFrame.
@@ -78,25 +78,25 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 6) Initialize a PassiveAggressiveClassifier. This is. We’ll fit this on tfidf_train and y_train.
 
 <p align="center">
-<img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
+<img width="750" height="400" alt="d1" src="">
 </p><br /> 
 
 7) predict on the test set from the TfidfVectorizer and calculate the accuracy with accuracy_score() from sklearn.metrics.
 8) 
 <p align="center">
-<img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
+<img width="750" height="400" alt="d1" src="">
 </p><br /> 
 
 8) We got an accuracy of 92.98% with this model. 
 
 <p align="center">
-<img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
+<img width="750" height="400" alt="d1" src="">
 </p><br /> 
 
 9) Finally, let’s print out a confusion matrix to gain insight into the number of false and true negatives and positives.
 
 <p align="center">
-<img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
+<img width="750" height="400" alt="d1" src="">
 </p><br /> 
 
 10) Ok you have done :)
