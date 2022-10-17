@@ -61,7 +61,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 3) Get the labels from the DataFrame.
 
 <p align="left">
-<img width="600" height="100" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
+<img width="200" height="500" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
 </p><br /> 
 
 4) Split the dataset into training and testing sets.
