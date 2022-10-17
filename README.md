@@ -58,7 +58,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 5) Fit and transform the vectorizer on the train set, and transform the vectorizer on the test set.
 6) Initialize a PassiveAggressiveClassifier. This is. We’ll fit this on tfidf_train and y_train.
 7) predict on the test set from the TfidfVectorizer and calculate the accuracy with accuracy_score() from sklearn.metrics.
-8) We got an accuracy of 92.82% with this model. 
+8) We got an accuracy of 92.98% with this model. 
 9) Finally, let’s print out a confusion matrix to gain insight into the number of false and true negatives and positives.
 10) Ok you have done :)
 
