@@ -61,7 +61,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 3) Get the labels from the DataFrame.
 
 <p align="left">
-<img width="200" height="500" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
+<img width="100" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
 </p><br /> 
 
 4) Split the dataset into training and testing sets.
@@ -72,7 +72,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 5) Fit and transform the vectorizer on the train set, and transform the vectorizer on the test set.
 
 <p align="left">
-<img width="750" height="400" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262516-6abaa673-92d8-4629-be80-06795f2c301b.PNG">
+<img width="600" height="110" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262516-6abaa673-92d8-4629-be80-06795f2c301b.PNG">
 </p><br /> 
 
 6) Initialize a PassiveAggressiveClassifier. This is. We’ll fit this on tfidf_train and y_train.
