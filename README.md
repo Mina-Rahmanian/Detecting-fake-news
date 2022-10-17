@@ -61,14 +61,12 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 3) Get the labels from the DataFrame.
 
 <p align="left">
-<img width="100" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
+<img width="150" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
 </p><br /> 
-
 4) Split the dataset into training and testing sets.
 <p align="left">
 <img width="600" height="100" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262506-37935b30-5d32-418a-a6e0-bfc067d7e6fc.PNG">
 </p><br /> 
-
 5) Fit and transform the vectorizer on the train set, and transform the vectorizer on the test set.
 
 <p align="left">
@@ -80,7 +78,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 8) We got an accuracy of 92.98% with this model. 
 
 <p align="left">
-<img width="250" height="200" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262517-147b4936-3971-492b-bd2d-40f623f534ef.PNG">
+<img width="600" height="200" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262517-147b4936-3971-492b-bd2d-40f623f534ef.PNG">
 </p><br /> 
 
 9) Finally, let’s print out a confusion matrix to gain insight into the number of false and true negatives and positives.
