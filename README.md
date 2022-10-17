@@ -85,7 +85,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 <p align="left">
 <img width="110" height="80" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
 </p><br /> 
-10) Ok you have done :)
+10) Perfect we have done :)
 
 <p align="center">
 <img width="500" height="110" alt="d1" src="https://user-images.githubusercontent.com/71558720/196265058-9f0b3a59-32d7-4a3f-8729-3df9b3b8cb54.png">
