@@ -61,29 +61,29 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 3) Get the labels from the DataFrame.
 
 <p align="left">
-<img width="150" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
+<img width="120" height="300" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262505-3e6b9e9e-7e07-4331-b191-094b490629fa.PNG">
 </p><br /> 
 4) Split the dataset into training and testing sets.
 
 <br /><p align="left">
-<img width="650" height="100" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262506-37935b30-5d32-418a-a6e0-bfc067d7e6fc.PNG">
+<img width="670" height="90" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262506-37935b30-5d32-418a-a6e0-bfc067d7e6fc.PNG">
 </p><br /> 
 5) Fit and transform the vectorizer on the train set, and transform the vectorizer on the test set.
 
 <br /><p align="left">
-<img width="650" height="110" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262516-6abaa673-92d8-4629-be80-06795f2c301b.PNG">
+<img width="670" height="90" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262516-6abaa673-92d8-4629-be80-06795f2c301b.PNG">
 </p><br /> 
 6) Initialize a PassiveAggressiveClassifier. This is. We’ll fit this on tfidf_train and y_train.<br /> 
 7) predict on the test set from the TfidfVectorizer and calculate the accuracy with accuracy_score() from sklearn.metrics.<br /> 
 8) We got an accuracy of 92.98% with this model. 
 
 <br /><p align="left">
-<img width="650" height="200" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262517-147b4936-3971-492b-bd2d-40f623f534ef.PNG">
+<img width="670" height="150" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262517-147b4936-3971-492b-bd2d-40f623f534ef.PNG">
 </p><br /> 
 9) Finally, let’s print out a confusion matrix to gain insight into the number of false and true negatives and positives.
 
 <p align="left">
-<img width="110" height="80" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
+<img width="90" height="80" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
 </p><br /> 
 10) Perfect we have done :)
 
