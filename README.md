@@ -71,14 +71,14 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 5) Fit and transform the vectorizer on the train set, and transform the vectorizer on the test set.
 
 <br /><p align="left">
-<img width="670" height="90" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262516-6abaa673-92d8-4629-be80-06795f2c301b.PNG">
+<img width="670" height="100" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262516-6abaa673-92d8-4629-be80-06795f2c301b.PNG">
 </p><br /> 
 6) Initialize a PassiveAggressiveClassifier. This is. We’ll fit this on tfidf_train and y_train.<br /> 
 7) predict on the test set from the TfidfVectorizer and calculate the accuracy with accuracy_score() from sklearn.metrics.<br /> 
 8) We got an accuracy of 92.98% with this model. 
 
 <br /><p align="left">
-<img width="670" height="170" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262517-147b4936-3971-492b-bd2d-40f623f534ef.PNG">
+<img width="680" height="180" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262517-147b4936-3971-492b-bd2d-40f623f534ef.PNG">
 </p><br /> 
 9) Finally, let’s print out a confusion matrix to gain insight into the number of false and true negatives and positives.
 
