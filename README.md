@@ -83,7 +83,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 9) Finally, let’s print out a confusion matrix to gain insight into the number of false and true negatives and positives.
 
 <p align="left">
-<img width="80" height="80" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
+<img width="90" height="95" alt="d1" src="https://user-images.githubusercontent.com/71558720/196262500-9a243a64-d343-4b8e-a7cc-3c11b34d5a2a.PNG">
 </p><br /> 
 10) Perfect we have done :)
 
