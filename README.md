@@ -98,8 +98,7 @@ This project of detecting fake news deals with fake and real news. Using **sklea
 
 Today, you have learned to detect fake news with Python. We took a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of 92.98% in magnitude.
 
-Hope you enjoyed the fake news detection python project. Keep visiting DataFlair for more interesting python, data science, and machine learning projects.
-
+Hope you enjoyed the fake news detection python project.
 <br /> <br /> 
  
  
